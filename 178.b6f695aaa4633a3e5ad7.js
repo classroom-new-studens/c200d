@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[178],{13178:(e,s,c)=>{var k=c(99530),l=c(73016);(0,k.Worker)({wasmFile:l})}}]);
