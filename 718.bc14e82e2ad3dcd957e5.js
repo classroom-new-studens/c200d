@@ -1,1 +1,0 @@
-(self.webpackChunkclient=self.webpackChunkclient||[]).push([[718],{31701:()=>{},71390:()=>{}}]);
